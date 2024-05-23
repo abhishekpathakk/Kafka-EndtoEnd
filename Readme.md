@@ -7,7 +7,7 @@ We are going to use different technologies such as Python, Microsoft Azure, Apac
 
 Architecture
 🛠️ Technology Used
-Programming Language: 🐍 Python
+Programming Language: 🐍 Python.
 Microsoft Azure Services:
 Azure Data Lake Storage: 🗂️ For storing raw and processed data.
 Azure Synapse Analytics: 📊 For querying and analyzing data.
